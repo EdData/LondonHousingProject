@@ -5,6 +5,14 @@ The output of this project contains 4 different Views, which show the queries I 
 
 -- ------------------------------------------------------------------------------------------------------------------------
 
+Tables used:
+
+-- Monthly table: [LondonHousingMonthly.csv](https://github.com/EdData/LondonHousingProject/files/10536909/LondonHousingMonthly.csv)
+
+-- Yearly table: [LondonHousingYearly.csv](https://github.com/EdData/LondonHousingProject/files/10536910/LondonHousingYearly.csv)
+
+-- ------------------------------------------------------------------------------------------------------------------------
+
 This exploratory analysis aims at answering the following questions:
 
 -- 2002, was the most successful year for the London Housing market. What could have been the cause for this success in the earlier years?
