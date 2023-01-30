@@ -5,6 +5,16 @@ The output of this project contains 4 different Views, which show the queries I 
 
 -- ------------------------------------------------------------------------------------------------------------------------
 
+-- This exploratory analysis aims at answering the following questions.
+
+-- 2002, was the most successful year for the London Housing market. What could have been the cause for this success in the earlier years?
+
+-- Were there any noticable events which occurred during the years 2001-2018?
+
+-- What factors within this data set would have had an effect on the London housing market?
+
+-- ------------------------------------------------------------------------------------------------------------------------
+
 View 1: [View_Comparison_Salary_Price_TSold.csv](https://github.com/EdData/LondonHousingProject/files/10467931/View_Comparison_Salary_Price_TSold.csv)
 
 <img width="1187" alt="V_Comparison_Salary_Price_TSold" src="https://user-images.githubusercontent.com/119752965/213745645-b41c3b42-b0f3-466f-86fc-cb5da25210b8.png">
@@ -53,7 +63,7 @@ View 2: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousin
 
 -- The Homeownership-Rate shows that the housing market was most successful in 2001/2002, 2004, and also 2006. The earlier years would have been more due to a lower Price-to-Income ratio, as affordable housing meant for a good investment.
 
--- As stated previously, there was a fluxuation in the housing market before the financial crisis in 2008. Looking at the Homeownership-Rate this enforces our previous point, which states that the demand will level out over the years.
+-- As stated previously, there was a fluxuation in the housing market before the financial crisis in 2008. Looking at the Homeownership-Rate this enforces our previous point as it matches this pattern, which states that the demand will level out over the years.
 
 -- When there are years of high homeownership, this number is likely to drop the following year as there will be less negotiation room for buyers. As demand increases from the previous year the prices will rise making homes less affordable.
 
@@ -67,7 +77,7 @@ View 3: [View_Population_HousingAvailability_Price.csv](https://github.com/EdDat
 
 -- Population-to-Housing
 
--- Population affects the number of houses needed, yet population itself will not have direct affect on demand as more than one person can live in each home. Therefore, we will need to consider the Average Household Size in our calculation.Google suggests this number to be '2.4' in London.
+-- Population affects the number of houses needed, yet population itself will not have direct affect on demand as more than one person can live in each home. Therefore, we will need to consider the Average Household Size in our calculation. Google suggests this number to be '2.4' in London.
 
 -- Total Households = (Population Size)/(2.4)
 
