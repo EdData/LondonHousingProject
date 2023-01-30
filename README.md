@@ -11,7 +11,7 @@ The output of this project contains 4 different Views, which show the queries I 
 
 -- Were there any noticable events which occurred during the years 2001-2018?
 
--- What factors within this data set would have had an effect on the London housing market?
+-- What factors which can been seen within this data set would have had an effect on the London housing market during 2001-2018?
 
 -- ------------------------------------------------------------------------------------------------------------------------
 
