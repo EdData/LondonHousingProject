@@ -19,6 +19,8 @@ View 1: [View_Comparison_Salary_Price_TSold.csv](https://github.com/EdData/Londo
 
 <img width="1187" alt="V_Comparison_Salary_Price_TSold" src="https://user-images.githubusercontent.com/119752965/213745645-b41c3b42-b0f3-466f-86fc-cb5da25210b8.png">
 
+-- Comparison of change in Salary, Price and Total Sold to the previous year:
+
 -- From this data, looking at the year 2002. The change in the number of houses being sold (T_Sold_Change column) from the previous year did increase, but did not have the highest change percentage wise compared to the other years, that would be year ending 2006. 
 
 -- This gradual increase shows that in the years 2001-2002 the housing market was in a healthy state. The average salary change from the previous year (Salary_Change column) was not drastic but still shows constant growth. A strong economy growing at a steady pace would boost investors confidence and thus increase demand for the London housing market.
@@ -35,7 +37,7 @@ View 2: [View_PriceToIncome_HomeownershipRate.csv](https://github.com/EdData/Lon
 
 <img width="1051" alt="View_PriceToIncome_HomeownershipRate" src="https://user-images.githubusercontent.com/119752965/213745794-84026a25-5278-42d0-8b1b-be7f6acb7794.png">
 
--- Price-to-Income
+-- Price-to-Income:
 
 -- Using the Price-to-Income ratio I will determine how price affected the housing market in London, this is done by comparing the Average Price to the Average Salary.
 
@@ -51,7 +53,7 @@ View 2: [View_PriceToIncome_HomeownershipRate.csv](https://github.com/EdData/Lon
 
 -- From the years 2014 onwards, the price to income ratio is a lot higher than the previous years. Showing that average price of houses is going up relative to average salary, as demand begins to increase again. This shows that people are demanding more money for their houses in London.
 
--- Homeownership-Rate
+-- Homeownership-Rate:
 
 -- Comparing the total number of houses in london and the amount sold per year can help us further analyse the market. This will give us the Homeownership-Rate. 
 
@@ -75,7 +77,7 @@ View 3: [View_Population_HousingAvailability_Price.csv](https://github.com/EdDat
 
 <img width="1087" alt="V_Population_HousingAvailability_HousingPrice" src="https://user-images.githubusercontent.com/119752965/213745774-d9dcb978-1004-4238-9dd0-28beac47f222.png">
 
--- Population-to-Housing
+-- Population-to-Housing:
 
 -- Population affects the number of houses needed, yet population itself will not have direct affect on demand as more than one person can live in each home. Therefore, we will need to consider the Average Household Size in our calculation. Google suggests this number to be '2.4' in London.
 
