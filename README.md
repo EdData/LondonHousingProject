@@ -127,7 +127,7 @@ View 4: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousin
 
 -- The Job-Density Ratio begins to drop in the later years 2014 onwards, which can also show that the economy recovered from the financial crisis in these years (1.16). More jobs available in an area means the economy is healthy and growing, which is visible in the later years. This is beneficial for the labour market as more people can work.
 
--- From this data we can see that the Job-Density decreased as there was an increase in the Job-Area ratio. This is expected, as when there are more jobs available in an area then more people will be working.
+-- From this data we can see that the deacrease in the Job-Densit ratio correlates to an increase in the Job-Area ratio. This is expected, as when there are more jobs available in an area then more people will be working.
 
 -- The years of 2008-2013 will be included in this analysis, as it will be proactive to see how the financial crisis also affected the job market in these years.
 
