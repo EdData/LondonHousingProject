@@ -27,6 +27,14 @@ View 2: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousin
 
 -- Price-to-Income
 
+-- Using the Price-to-Income ratio I will determine how price affected the housing market in London, this is done by comparing the Average Price to the Average Salary.
+
+-- Price-to-Income ratio = (Average Price)/(Average Salary)
+
+-- This ratio compares the average price of houses in a specific area to the average income of a specific area. A higher ratio means it would take the person longer to save for a down payment, or it would take a larger percent of their income to be able to pay off their mortgage. A lower ratio means that housing is more affordable. Therefore, it will be more likely that people will buy a home.
+
+-- Analysis:
+
 -- At the year end of 2001, the Price-to-Income ratio is relatively lower than the other years (4.531). Therefore, at the start of 2002 the housing market was still quite affordable and prices were on the rise.
 
 -- Which could help explain why there was a large increase in the number of houses sold in 2002. As houses in London would have been seen as a good investment.
@@ -34,6 +42,14 @@ View 2: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousin
 -- From the years 2014 onwards, the price to income ratio is a lot higher than the previous years. Showing that average price of houses is going up relative to average salary, as demand begins to increase again. This shows that people are demanding more money for their houses in London.
 
 -- Homeownership-Rate
+
+-- Comparing the total number of houses in london and the amount sold per year can help us further analyse the market. This will give us the Homeownership-Rate. 
+
+-- Homeownership-Rate = (Total sold)/(Total in the area)
+
+-- This ratio is a good indicator of housing affordability and stability within a community. If the Homeownership_Rate is high, this means more people are able to afford homes within a community. A lower rate shows that more people will be renting, which can show signs of a weak housing market.
+
+-- Analysis:
 
 -- The Homeownership-Rate shows that the housing market was most successful in 2001/2002, 2004, and also 2006. The earlier years would have been more due to a lower Price-to-Income ratio, as affordable housing meant for a good investment.
 
@@ -49,19 +65,55 @@ View 3: [View_Population_HousingAvailability_Price.csv](https://github.com/EdDat
 
 <img width="1087" alt="V_Population_HousingAvailability_HousingPrice" src="https://user-images.githubusercontent.com/119752965/213745774-d9dcb978-1004-4238-9dd0-28beac47f222.png">
 
+-- Population-to-Housing
+
+-- Population affects the number of houses needed, yet population itself will not have direct affect on demand as more than one person can live in each home. Therefore, we will need to consider the Average Household Size in our calculation.Google suggests this number to be '2.4' in London.
+
+-- Total Households = (Population Size)/(2.4)
+
+-- To find a more accurate, Population-TotalHousing-Ratio, we will include Total Households in the ratio.
+
+-- Population-TotalHousing Ratio = (Total Households)/(Total Number of Houses)
+
+-- The Population-TotalHousing Ratio will help us analyse population density of London over the years. A ratio greater than 1 will mean there is over-crowding. Lower than 1 can suggest that there is a surplus of housing in the area. This ratio is not perfect, but gives us a better understand of total households and house availability.
+
+-- Analysis:
+
 -- Looking at the years from 2001-2018. Not including what we discovered to be the years where England was recovering from the recession (2008-2013).
 
 -- We can see that the rise in the price-to-income ratio from 2014 onwards has a correlation to the housing availability. As stated previously Population-TotalHousing-Ratio greater than 1 means that there is an overcrowding in an area.
 
--- Which helps us understand why prices were increasing at such a high rate amongst these years. Increased demand from lack of housing.
-
--- It also helps us to understand why people were still so eager to buy at these high prices,  because the housing availability was low.
+-- Which helps us understand why prices were increasing at such a high rate amongst these years. Increased demand from lack of housing. It also helps us to understand why people were still so eager to buy at these high prices, because the housing availability was low.
 
 -- ------------------------------------------------------------------------------------------------------------------------
 
 View 4: [View_PriceToIncome_HomeownershipRate.csv](https://github.com/EdData/LondonHousingProject/files/10467924/View_PriceToIncome_HomeownershipRate.csv)
 
 <img width="1051" alt="View_PriceToIncome_HomeownershipRate" src="https://user-images.githubusercontent.com/119752965/213745794-84026a25-5278-42d0-8b1b-be7f6acb7794.png">
+
+-- Job-Density Ratio:
+
+-- The Job-Density Ratio, shows the total number of jobs in an area and compares it tot he working population. his ratio can also help us understand why an area might be more popular to live in.
+
+-- Google estimates that 76.1% of people in the UK are of working age. So I will adjust the population accordingly to retrieve this value for each year.
+
+-- Job-Density Ratio = (0.761 * Population Size)/(Number of Jobs)
+
+-- A high Job-Desnity Ratio means there are more people of working age than there are jobs available.
+
+-- Job-Area Ratio:
+
+-- The Job-Area Ratio shows the density of jobs available per. Km^2. This ratio can help us further analyse the number job opportunities of a specific area. In this case London.
+
+-- The area values given in the Yearly table is in hecters. To get Km^2 we simply have to times by 0.01.
+
+-- Job-Area Ratio = (Number of Jobs)/(Area Size * 0.01)
+
+-- A high Job-Area means there are a lot of jobs available per Km^2, which will in turn increase demand for housing. A lower job density will signify the opposite, and suggests a less efficient economy.
+
+-- Analysis:
+
+-- The Job-Density Ratio begins to drop in the later years 2014 onwards, which can also show that the economy recovered from the financial crisis in these years (1.16). More jobs available in an area means the economy is healthy and growing, which is visible in the later years. This is beneficial for the labour market as more people can work.
 
 -- From this data we can see that the Job-Density decreased as there was an increase in the Job-Area ratio. This is expected, as when there are more jobs available in an area then more people will be working.
 
