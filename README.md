@@ -105,7 +105,7 @@ View 4: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousin
 
 Job-Density Ratio:
 
--- The Job-Density Ratio, shows the total number of jobs in an area and compares it tot he working population. his ratio can also help us understand why an area might be more popular to live in.
+-- The Job-Density Ratio, shows the total number of jobs in an area and compares it tot he working population. This ratio can also help us understand why an area might be more popular to live in.
 
 -- Google estimates that 76.1% of people in the UK are of working age. So I will adjust the population accordingly to retrieve this value for each year.
 
