@@ -31,9 +31,9 @@ View 1: [View_Comparison_Salary_Price_TSold.csv](https://github.com/EdData/Londo
 
 -- ------------------------------------------------------------------------------------------------------------------------
 
-View 2: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousingProject/files/10467930/View_JobRatios_HousingPrice.csv)
+View 2: [View_PriceToIncome_HomeownershipRate.csv](https://github.com/EdData/LondonHousingProject/files/10467924/View_PriceToIncome_HomeownershipRate.csv)
 
-<img width="1026" alt="V_JobRatios_HousingPrice" src="https://user-images.githubusercontent.com/119752965/213745751-c9e47527-0a8a-4e62-b1c8-2a39a98b2daf.png">
+<img width="1051" alt="View_PriceToIncome_HomeownershipRate" src="https://user-images.githubusercontent.com/119752965/213745794-84026a25-5278-42d0-8b1b-be7f6acb7794.png">
 
 -- Price-to-Income
 
@@ -97,9 +97,9 @@ View 3: [View_Population_HousingAvailability_Price.csv](https://github.com/EdDat
 
 -- ------------------------------------------------------------------------------------------------------------------------
 
-View 4: [View_PriceToIncome_HomeownershipRate.csv](https://github.com/EdData/LondonHousingProject/files/10467924/View_PriceToIncome_HomeownershipRate.csv)
+View 4: [View_JobRatios_HousingPrice.csv](https://github.com/EdData/LondonHousingProject/files/10467930/View_JobRatios_HousingPrice.csv)
 
-<img width="1051" alt="View_PriceToIncome_HomeownershipRate" src="https://user-images.githubusercontent.com/119752965/213745794-84026a25-5278-42d0-8b1b-be7f6acb7794.png">
+<img width="1026" alt="V_JobRatios_HousingPrice" src="https://user-images.githubusercontent.com/119752965/213745751-c9e47527-0a8a-4e62-b1c8-2a39a98b2daf.png">
 
 -- Job-Density Ratio:
 
