@@ -139,7 +139,7 @@ Analysis:
 
 -- The years of 2008-2013 will be included in this analysis, as it will be proactive to see how the financial crisis also affected the job market in these years.
 
--- The Job-Density ratio was at its highest the first few years after the recession in 2008. This would be due to pepole being laid off, as companies will have to make budget cuts.
+-- The Job-Density ratio was at its highest the first few years after the recession in 2008. This would be due to people being laid off, as companies will have to make budget cuts.
 
 -- Increases over the years in the Job-Area ratio also shows to lead to an increase in the Price-to-Income ratio. This could be due to the fact that an increase in the number of jobs in an area may also increase the popularity of an area, people may want to live closer to work out of convenience or within a thriving economy.
 
